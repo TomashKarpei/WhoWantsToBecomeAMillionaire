@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Scenes/MenuGlowne.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Java.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/C++.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Python.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/HTML.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/PHP.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
